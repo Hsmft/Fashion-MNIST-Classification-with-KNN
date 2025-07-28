@@ -1,0 +1,14 @@
+numpy
+pandas
+sklearn.datasets
+matplotlib.pyplot
+seaborn
+mpl_toolkits.mplot3d
+sklearn.manifold
+sklearn.model_selection
+sklearn.decomposition
+sklearn.preprocessing
+sklearn.discriminant_analysis
+sklearn.neighbors
+tabulate
+sklearn.metrics
